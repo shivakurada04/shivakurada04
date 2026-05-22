@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://komarev.com/ghvc/?username=shivakurada04&label=Profile%20Views&color=238636&style=flat-square" alt="Views" />
+  <img src="https://profile-counter.glitch.me/shivakurada04/count.svg" alt="Profile Views" />
 </div>
 
 # Hi there, I'm K Sri Dattha Shiva Kumar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+End-to-End+Applications;React+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+End-to-End+Applications;React+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
 </div>
-
 ---
 
 ### 🚀 About Me
