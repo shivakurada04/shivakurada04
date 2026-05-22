@@ -12,13 +12,13 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a driven **Full Stack Developer** passionate about building robust backend architectures and crafting seamless, responsive frontend user experiences[cite: 233, 235, 239]. I love bridge-building between high-performance server logic and clean, dynamic user interfaces.
+I am a driven **Full Stack Developer** passionate about building robust backend architectures and crafting seamless, responsive frontend user experiences. I love bridge-building between high-performance server logic and clean, dynamic user interfaces.
 
-- [cite_start]🛠️ Currently working as a developer at **Mr Chams Pvt Ltd**[cite: 245].
-- [cite_start]💻 Building modern UI workflows using **React, Next.js, HTML5, CSS3, and JavaScript**.
-- [cite_start]💡 Experienced in engineering secure RESTful APIs using **Node.js/Express** and **Django**[cite: 233, 234].
-- [cite_start]⚡ Deep integration experience with **MySQL** database optimization and **Redis** caching systems[cite: 234, 250, 251].
-- [cite_start]🎓 Hold an **M.Sc. in Computer Science** with solid fundamentals in Data Structures and Algorithms[cite: 237, 267].
+→ Currently working as a developer at **Mr Chams Pvt Ltd**[cite: 245].
+→ Building modern UI workflows using **React, Next.js, HTML5, CSS3, and JavaScript**.
+→ Experienced in engineering secure RESTful APIs using **Node.js/Express** and **Django**.
+→ Deep integration experience with **MySQL** database optimization and **Redis** caching systems.
+→ 🎓 Hold an **M.Sc. in Computer Science** with solid fundamentals in Data Structures and Algorithms.
 
 ---
 
