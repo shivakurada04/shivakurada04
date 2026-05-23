@@ -75,7 +75,3 @@ I am a driven **Full Stack Developer** passionate about building robust backend 
 
 
 
-
-make it animated and explain use of this
-
-  <img src="https://profile-counter.glitch.me/shivakurada04/count.svg" alt="Profile Views" />
