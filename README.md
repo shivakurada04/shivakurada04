@@ -33,7 +33,7 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 - 🎨 Crafting modern UIs with **React, Next.js, HTML5, CSS3 and JavaScript (ES6+)**
 - ⚙️ Engineering secure REST APIs with **Node.js / Express** and **Django**
 - 🚀 Deploying containers to **AWS ECS Fargate** with automated **GitHub Actions** CI/CD
-- 🎓 **M.Sc. in Computer Science** with strong fundamentals in data structures and algorithms
+- 🎓 **M.Sc. in Computer Science** & **M.S. in Data Science & Artificial Intelligence** with strong fundamentals in machine learning, data structures, and algorithms
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
