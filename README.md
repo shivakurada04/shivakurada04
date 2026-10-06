@@ -16,9 +16,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-about.svg" width="100%" alt="About Me" />
-</div>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 I build the <b>whole product</b> — fast, secure backend services <i>and</i> responsive, polished interfaces.<br/>
@@ -39,9 +37,7 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-tech.svg" width="100%" alt="Tech Arsenal" />
-</div>
+<h2 align="center">Tech Arsenal</h2>
 
 <div align="center">
   <img src="assets/skills.svg" width="100%" alt="Frontend, backend, cloud and data skills" />
@@ -49,19 +45,18 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-frontend.svg" width="100%" alt="Frontend Craft" />
-</div>
+<h2 align="center">Frontend Craft</h2>
 
-<div align="center">
-  <img src="assets/frontend.svg" width="100%" alt="Frontend strengths: component-driven UIs, performance, real-time, responsive design, dashboards, secure auth" />
-</div>
+- ⚡ **Component-Driven UIs** — Modular, reusable React & Next.js architectures
+- 🚀 **Performance & Optimization** — Dynamic loading, asset caching & low bundle size
+- 🔄 **Real-Time State** — Seamless WebSockets and Socket.io integration
+- 📱 **Responsive Design** — Pixel-perfect layouts optimized for mobile, tablet, and desktop
+- 📊 **Interactive Dashboards** — Data visualization and rich admin tools
+- 🔐 **Secure Authentication** — JWT workflows, OAuth & Role-Based Access Control (RBAC)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-impact.svg" width="100%" alt="Engineering Impact" />
-</div>
+<h2 align="center">Engineering Impact</h2>
 
 <div align="center">
   <img src="assets/impact.svg" width="100%" alt="1M+ monthly requests, 99.9% uptime, 5,000+ users secured, 120ms lower latency" />
@@ -69,9 +64,7 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-build.svg" width="100%" alt="How I Build" />
-</div>
+<h2 align="center">How I Build</h2>
 
 <div align="center">
   <img src="assets/architecture.svg" width="100%" alt="Architecture: React client, Node.js API on ECS Fargate, Redis, MySQL, S3 and Bunny CDN" />
@@ -79,9 +72,7 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-work.svg" width="100%" alt="Featured Work" />
-</div>
+<h2 align="center">Featured Work</h2>
 
 | Project | What I built | Stack |
 | :-- | :-- | :-- |
@@ -93,9 +84,7 @@ I enjoy bridging high-performance server logic with clean, dynamic user experien
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="assets/title-connect.svg" width="100%" alt="Let's Connect" />
-</div>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   Open to interesting problems, great teams and ambitious products.
